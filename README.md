@@ -12,7 +12,7 @@ Laptop price is varied from time to time as the system upgrades its technology t
 
 ### Data Collection
 
-Laptop price dataset taken from the Kaggle website consisted of 12 attributes and 1.3K tuples, the attributes are: 'Company', 'TypeName', 'Inches', 'ScreenResolution', 'Cpu', 'Ram','Memory', 'Gpu', 'OpSys', 'Weight', 'Price', 'date'
+The laptop price dataset taken from the Kaggle website consisted of 12 attributes and 1.3K tuples, the attributes are: 'Company', 'TypeName', 'Inches', 'ScreenResolution', 'Cpu', 'Ram','Memory', 'Gpu', 'OpSys', 'Weight', 'Price', 'date'
 
 
 
