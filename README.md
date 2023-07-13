@@ -1,7 +1,7 @@
 # Data-Analysis-Laptop price dataset
 
 
-Laptop price is varied from time to time as the system upgrades its technology to a newer version that automates and helps humans to manage a task easily. There are several companies that manufacture laptops, and their price depends on the quality, technology, specifications, and brand.
+The Laptop price is varied from time to time as the system upgrades its technology to a newer version that automates and helps humans to manage a task easily. There are several companies that manufacture laptops, and their price depends on the quality, technology, specifications, and brand.
 
 ## Project Synopsis
 
