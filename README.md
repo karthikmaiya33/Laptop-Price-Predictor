@@ -1,18 +1,18 @@
 # Data-Analysis-Laptop price dataset
 
 
-Laptop price is varied from time to time as the system upgrades its technology to a newer version which automates and helps human to manage a task easily. There are several companies that manufacture laptops, and their price depends on the quality, technology, specifications and brand.
+The Laptop price is varied from time to time as the system upgrades its technology to a newer version that automates and helps humans to manage a task easily. There are several companies that manufacture laptops, and their price depends on the quality, technology, specifications, and brand.
 
 ## Project Synopsis
 
->> This analysis and model will be used to find correlation between specifications and laptop price aswell as being used to predict laptop prices in the future. [Click here](https://www.kaggle.com/).
+>> This analysis and model will be used to find a correlation between specifications and laptop price as well as being used to predict laptop prices in the future. [Click here](https://www.kaggle.com/).
 
 -------------------------------
 ## Project Walk-through
 
 ### Data Collection
 
-The laptop price dataset taken from the Kaggle website consisted of 12 attributes and 1.3K tuples, the attributes are: 'Company', 'TypeName', 'Inches', 'ScreenResolution', 'Cpu', 'Ram','Memory', 'Gpu', 'OpSys', 'Weight', 'Price', 'date'
+Laptop price dataset taken from the Kaggle website consisted of 12 attributes and 1.3K tuples, the attributes are: 'Company', 'TypeName', 'Inches', 'ScreenResolution', 'Cpu', 'Ram', 'Memory', 'Gpu', 'OpSys', 'Weight', 'Price', 'date'
 
 
 
@@ -26,7 +26,7 @@ After collecting the data, replacing and filling values were handled using Repla
 -------------------------------
 ## EDA {Exploratory Data Analysis}
 
-* All the imported distributions from the data cleaning data-set, I looked at the distributions of the data and the value counts for the various numerical and categorical variables.
+* All the imported distributions from the data cleaning data set, I looked at the distributions of the data and the value counts for the various numerical and categorical variables.
 * Using **Matplotlib & Seaborn**, categorized and crafted a beautiful data visualisation charts & plots.
 * Used Machine Learning to build a model to predict the prices of a laptop using multiple regression and clustering techniques. 
 * Below are a few highlights from the *Pivot tables, Barplots & HeatMaps*.
